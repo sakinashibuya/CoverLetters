@@ -1,8 +1,8 @@
-PWD c:/Users/sakin/Documents/Git/CoverLetters/policy/Template
+PWD c:/Users/sakina/Documents/Git/CoverLetters/policy
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/sakin/Documents/Git/CoverLetters/policy/Template/CoverLetter_SakinaShibuya.tex
+INPUT c:/Users/sakina/Documents/Git/CoverLetters/policy/CoverLetter_SakinaShibuya.tex
 OUTPUT CoverLetter_SakinaShibuya.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/letter.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/letter.cls

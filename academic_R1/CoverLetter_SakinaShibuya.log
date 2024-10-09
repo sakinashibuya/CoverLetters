@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  27 SEP 2024 22:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  9 OCT 2024 08:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/sakin/Documents/Git/CoverLetters/academic/CoverLetter_SakinaShibuya.tex
-(c:/Users/sakin/Documents/Git/CoverLetters/academic/CoverLetter_SakinaShibuya.tex
+**c:/Users/sakina/Documents/Git/CoverLetters/academic_R1/CoverLetter_SakinaShibuya.tex
+(c:/Users/sakina/Documents/Git/CoverLetters/academic_R1/CoverLetter_SakinaShibuya.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30> (c:/texlive/2023/texmf-dist/tex/latex/base/letter.cls
+L3 programming layer <2023-02-22> (c:/texlive/2023/texmf-dist/tex/latex/base/letter.cls
 Document Class: letter 2021/12/07 v1.3c Standard LaTeX document class
 (c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -81,7 +81,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@cols=\count190
 \TX@ftn=\toks21
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count191
 \l__pdf_internal_box=\box53
 ) (./CoverLetter_SakinaShibuya.aux)
@@ -155,38 +155,38 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-File: logo_cropped.pdf Graphic file (type pdf)
-<use logo_cropped.pdf>
-Package pdftex.def Info: logo_cropped.pdf  used on input line 18.
+File: ..//logo_cropped.pdf Graphic file (type pdf)
+<use ..//logo_cropped.pdf>
+Package pdftex.def Info: ..//logo_cropped.pdf  used on input line 18.
 (pdftex.def)             Requested size: 158.3922pt x 43.5pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-<signature.png, id=2, 821.0675pt x 198.7425pt>
-File: signature.png Graphic file (type png)
-<use signature.png>
-Package pdftex.def Info: signature.png  used on input line 58.
+<..//signature.png, id=2, 821.0675pt x 198.7425pt>
+File: ..//signature.png Graphic file (type png)
+<use ..//signature.png>
+Package pdftex.def Info: ..//signature.png  used on input line 55.
 (pdftex.def)             Requested size: 239.61942pt x 58.0pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
 [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo_cropped.pdf> <./signature.png>] (./CoverLetter_SakinaShibuya.aux) ) 
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <..//logo_cropped.pdf> <..//signature.png>] (./CoverLetter_SakinaShibuya.aux) ) 
 Here is how much of TeX's memory you used:
- 2037 strings out of 476017
- 34051 string characters out of 5793766
- 1858660 words of memory out of 5000000
- 22511 multiletter control sequences out of 15000+600000
+ 2044 strings out of 476025
+ 34245 string characters out of 5794015
+ 1858382 words of memory out of 5000000
+ 22509 multiletter control sequences out of 15000+600000
  515023 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,13n,62p,295b,302s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,13n,62p,299b,302s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on CoverLetter_SakinaShibuya.pdf (1 page, 66148 bytes).
+Output written on CoverLetter_SakinaShibuya.pdf (1 page, 66170 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
